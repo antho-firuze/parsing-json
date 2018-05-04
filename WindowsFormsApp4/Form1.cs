@@ -21,7 +21,7 @@ namespace WindowsFormsApp4
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            // nothing
         }
 
         private void c1Button1_Click(object sender, EventArgs e)
